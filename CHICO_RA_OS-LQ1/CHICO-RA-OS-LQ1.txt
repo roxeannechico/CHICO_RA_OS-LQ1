@@ -1,0 +1,62 @@
+Microsoft Windows [Version 10.0.26100.4946]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ACER>cd DOWNLOADS
+
+C:\Users\ACER\Downloads>mkdir CHICO_RA_OS-LQ1
+
+C:\Users\ACER\Downloads>cd CHICO_RA_OS-LQ1
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1>mkdir src common installer cache user
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1>cd src
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\src>md a\b\c\d\e\f\g
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\src>cd..
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1>cd common
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\common>md h\i\j\k\l\m
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\common>cd..
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1>cd installer
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\installer>mkdir installer_folder
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\installer>cd..
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1>cd cache
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\cache>md a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\cache>md 1 2 3 4 5 6 7 8 9 10
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\cache>cd..
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1>cd user
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user>md "user_jerico" "user_eliza" "user_juan"
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user>cd user_jerico
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico>md "user_profile" "user_settings" "user_preferences"
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico>cd user_profile
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico\user_profile>md "jerico estabillo"
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico\user_profile>cd..
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico>cd user_settings
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico\user_settings>md OSversion AppVersion
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico\user_settings>cd..
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico>cd..
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user>cd user_jerico
+
+C:\Users\ACER\Downloads\CHICO_RA_OS-LQ1\user\user_jerico>
